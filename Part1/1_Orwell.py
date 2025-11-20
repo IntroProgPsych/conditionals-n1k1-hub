@@ -8,4 +8,7 @@
 # Please type in a number: 1984
 # Orwell
 
-# Write your code here:
+# # Write your code here:
+# number=int(input())
+# if number==1984:
+#   print("Orwell")
